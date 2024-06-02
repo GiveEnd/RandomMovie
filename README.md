@@ -4,6 +4,6 @@ By pressing a button, displays information about a random movie from the collect
 
 ## Example of work
 
-![Movie](https://github.com/GiveEnd/RandomMovie/assets/60320294/416d0b74-42c4-49f6-a134-c69216fdb991)
+![Movie](https://github.com/GiveEnd/RandomMovie/assets/60320294/b162e79b-e6aa-4eb7-915a-912902e11e34)
 
-https://github.com/GiveEnd/RandomMovie/assets/60320294/a049d8a6-8fe8-4fdb-b6e9-bfcdf37e334b
+https://github.com/GiveEnd/RandomMovie/assets/60320294/294a5d13-1940-4734-bc0e-39d7097e2fe0
